@@ -1,5 +1,5 @@
 # Blog Backend API
-![Alt text](images/Screenshot 2024-06-14 215559.png)
+
 This project implements a backend service for a blog platform, allowing users to perform CRUD operations on blog posts and manage user accounts. The backend is built using Node.js with the Express.js framework and uses MongoDB for data storage. Authentication is handled using token-based authentication (JWT).
 
 ## Technologies Used
@@ -238,3 +238,14 @@ This project implements a backend service for a blog platform, allowing users to
 - Implement token-based authentication using JWT.
 - Protect all CRUD operations on blog posts and user details by requiring a valid JWT in the `Authorization` header.
 
+![Alt text](images/s1.png)
+![Alt text](images/s2.png)
+![Alt text](images/s3.png)
+![Alt text](images/s4.png)
+![Alt text](images/s5.png)
+![Alt text](images/s6.png)
+![Alt text](images/s7.png)
+![Alt text](images/s8.png)
+![Alt text](images/s9.png)
+![Alt text](images/s10.png)
+![Alt text](images/s11.png)
